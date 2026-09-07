@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Meera Nair",
+    "role": "COO, Fintrail",
+    "quote": "TechNova rebuilt our core platform in under four months and it hasn't gone down once. Their team communicates like an in-house squad, not a vendor.",
+    "avatar": "https://i.pravatar.cc/120?img=32"
+  },
+  {
+    "id": 2,
+    "name": "James Whitfield",
+    "role": "Founder, Lumen Retail",
+    "quote": "The UI/UX overhaul lifted our checkout conversion by 28% in the first quarter. They understood our customers better than we did.",
+    "avatar": "https://i.pravatar.cc/120?img=15"
+  },
+  {
+    "id": 3,
+    "name": "Chidinma Obi",
+    "role": "VP Engineering, Harbor Logistics",
+    "quote": "Their cloud migration plan was the first one we trusted enough to actually execute. Zero surprises, clear milestones, real ownership.",
+    "avatar": "https://i.pravatar.cc/120?img=48"
+  },
+  {
+    "id": 4,
+    "name": "Tomás Herrera",
+    "role": "Head of Product, Norda Health",
+    "quote": "We came in for a website and left with a genuine product partner. The AI consulting engagement alone paid for the entire contract.",
+    "avatar": "https://i.pravatar.cc/120?img=60"
+  }
+]

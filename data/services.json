@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "icon": "Code2",
+    "title": "Web Development",
+    "description": "Fast, accessible, and maintainable web applications built on modern frameworks and clean architecture."
+  },
+  {
+    "id": 2,
+    "icon": "Smartphone",
+    "title": "Mobile App Development",
+    "description": "Native-feel iOS and Android apps from a single codebase, shipped with real performance budgets."
+  },
+  {
+    "id": 3,
+    "icon": "PenTool",
+    "title": "UI/UX Design",
+    "description": "Research-driven interface design that turns complex workflows into interfaces people enjoy using."
+  },
+  {
+    "id": 4,
+    "icon": "CloudCog",
+    "title": "Cloud Solutions",
+    "description": "Infrastructure design, migration, and cost optimization across AWS, Azure, and GCP."
+  },
+  {
+    "id": 5,
+    "icon": "BrainCircuit",
+    "title": "AI Consulting",
+    "description": "Practical AI strategy and implementation, from data readiness to production-grade model integration."
+  },
+  {
+    "id": 6,
+    "icon": "Megaphone",
+    "title": "Digital Marketing",
+    "description": "Performance marketing and SEO programs built around measurable pipeline, not vanity metrics."
+  }
+]

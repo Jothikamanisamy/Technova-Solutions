@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "apiId": 1,
+    "slug": "future-of-cloud-native-architecture",
+    "title": "The Future of Cloud-Native Architecture",
+    "excerpt": "How containerized, event-driven systems are reshaping the way modern products get built and scaled.",
+    "image": "https://picsum.photos/seed/technova-1/800/500",
+    "date": "2026-06-02",
+    "author": "Ravi Menon",
+    "category": "Cloud"
+  },
+  {
+    "id": 2,
+    "apiId": 2,
+    "slug": "designing-interfaces-people-trust",
+    "title": "Designing Interfaces People Trust",
+    "excerpt": "Practical UI/UX patterns that reduce friction and build user confidence from the first click.",
+    "image": "https://picsum.photos/seed/technova-2/800/500",
+    "date": "2026-06-10",
+    "author": "Ayesha Khan",
+    "category": "Design"
+  },
+  {
+    "id": 3,
+    "apiId": 3,
+    "slug": "ai-consulting-getting-started-guide",
+    "title": "AI Consulting: A Getting-Started Guide",
+    "excerpt": "A pragmatic roadmap for teams evaluating where AI actually fits into their product roadmap.",
+    "image": "https://picsum.photos/seed/technova-3/800/500",
+    "date": "2026-06-18",
+    "author": "Daniel Cho",
+    "category": "AI"
+  },
+  {
+    "id": 4,
+    "apiId": 4,
+    "slug": "mobile-performance-checklist-2026",
+    "title": "The Mobile Performance Checklist for 2026",
+    "excerpt": "Twelve measurable steps to cut load times and improve retention on Android and iOS.",
+    "image": "https://picsum.photos/seed/technova-4/800/500",
+    "date": "2026-06-25",
+    "author": "Priya Raman",
+    "category": "Mobile"
+  },
+  {
+    "id": 5,
+    "apiId": 5,
+    "slug": "building-a-digital-marketing-funnel-that-converts",
+    "title": "Building a Digital Marketing Funnel That Converts",
+    "excerpt": "How TechNova structures acquisition, nurture, and retention campaigns for B2B clients.",
+    "image": "https://picsum.photos/seed/technova-5/800/500",
+    "date": "2026-07-02",
+    "author": "Liam Fischer",
+    "category": "Marketing"
+  },
+  {
+    "id": 6,
+    "apiId": 6,
+    "slug": "web-development-trends-to-watch",
+    "title": "Web Development Trends to Watch",
+    "excerpt": "From server components to edge rendering, the shifts changing how we ship for the web.",
+    "image": "https://picsum.photos/seed/technova-6/800/500",
+    "date": "2026-07-09",
+    "author": "Sara Okafor",
+    "category": "Web"
+  }
+]
