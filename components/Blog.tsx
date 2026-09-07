@@ -13,7 +13,7 @@ export default function Blog() {
             From the Blog
           </h2>
           <p className="mt-4 text-inkLight-muted dark:text-ink-muted">
-            Notes from our engineering, design, and strategy teams on what's
+            Notes from our engineering, design, and strategy teams on what&apos;s
             actually working right now.
           </p>
         </div>
