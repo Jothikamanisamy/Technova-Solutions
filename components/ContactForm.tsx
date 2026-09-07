@@ -85,10 +85,10 @@ export default function ContactForm() {
         <div className="grid gap-12 md:grid-cols-2">
           <div>
             <h2 className="text-3xl font-semibold text-inkLight md:text-4xl dark:text-ink">
-              Let's Build Something
+              Let&apos;s Build Something
             </h2>
             <p className="mt-4 max-w-sm text-inkLight-muted dark:text-ink-muted">
-              Tell us about your project and we'll get back to you within one
+              Tell us about your project and we&apos;ll get back to you within one
               business day.
             </p>
           </div>

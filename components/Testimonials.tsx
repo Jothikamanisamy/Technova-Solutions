@@ -24,7 +24,7 @@ export default function Testimonials() {
             >
               <Quote className="h-6 w-6 text-nova-violet/50 dark:text-nova-orange/50" />
               <blockquote className="mt-4 flex-1 text-inkLight md:text-lg dark:text-ink">
-                "{t.quote}"
+                &quot;{t.quote}&quot;
               </blockquote>
               <figcaption className="mt-6 flex items-center gap-3">
                 <Image
